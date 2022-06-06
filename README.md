@@ -2,7 +2,7 @@
 Pytorch implementation of paper ['Exploring edge disentanglement for node classification'](https://dl.acm.org/doi/pdf/10.1145/3485447.3511929) on WWW2022.
 
 ## Dataset
-Four dataset, cora, cora_full, squirrel and chameleon are included in this directory.
+Four dataset, cora, cora_full, and chameleon are included in this directory.
 
 ## Configurations
 
