@@ -15,7 +15,7 @@ Four dataset, cora, cora_full, and chameleon are included in this directory.
 - Disentanglement-encouraging signals, including supervision on edge recovery (SupEdge), homo/hetero edges (DisEdge), and head diversity (DifHead) are implemented.
 - SSL tasks can be selected with '--pretrain [*task1,task2,...*] --pre_weight [*weight1,weight2,...*] --pre_edge [*edge1,edge2,...*]'. '--pre_weight' sets the weight of corresponding SSL task, and '--pre_edge' selects which edge set to use (Only implemented for heterogeneous graphs, can just set it to 1 for most datasets) 
 - For SSL task-specific configuration terms, please refer to *utils.py* and *pretainer.py*.
-- '==constrain_layer' sets the layers to which SSL tasks are applied.
+- '--constrain_layer' sets the layers to which SSL tasks are applied.
 
 ### Downstream task
 - Please set it as: '--downstream CLS --down_weight 1.0 --finetune'. 
