@@ -23,7 +23,7 @@ Four dataset, cora, cora_full, and chameleon are included in this directory.
 - Without '--finetune', the GNN will only be trained on SSL tasks for pre-training.
 
 ## Example
-An example of running DISGAT on cora_full dataset is provided.
+- An example of running DISGAT on cora_full dataset is provided, in 'example_bashes' directory.
 
 
 The code is not cleaned yet, if any problems occurs via running this code, please feel free to contact us at tkz5084@psu.edu.
