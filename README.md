@@ -26,6 +26,6 @@ Four dataset, cora, cora_full, and chameleon are included in this directory.
 An example of running DISGAT on cora_full dataset is provided.
 
 
-If any problems occurs via running this code, please contact us at tkz5084@psu.edu.
+The code is not cleaned yet, if any problems occurs via running this code, please feel free to contact us at tkz5084@psu.edu.
 
 Thank you!
